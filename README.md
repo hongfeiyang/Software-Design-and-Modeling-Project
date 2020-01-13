@@ -1,2 +1,2 @@
 # PartC
-![Alt text](/screenshot.png?raw=true "Title")
+![Alt text](/screenshot.png?raw=true "Screen Shot")
